@@ -6,7 +6,7 @@ The software lets a user add, list, and search products; update quantities; remo
 
 I wrote this software to practice C++ syntax and core programming concepts in a practical application, including variables, expressions, conditionals, loops, functions, classes, `std::vector`, and file input/output.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/FiNhDl4q9ms)
 
 # Development Environment
 
